@@ -1,0 +1,6811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection type="GCmusics" items="70" version="1.6.1">
+ <information>
+  <maxId>72</maxId>
+ </information>
+
+
+
+ <item
+  gcsautoid="1"
+  unique=""
+  title="Gonzo 1 cd"
+  cover=""
+  backpic=""
+  artist="Musicfactory Gonzo"
+  running="19:45"
+  release=""
+  label="Gonzo-consortium Ltd. Helsinki"
+  rating="0"
+  ratingpress="0"
+  added="17/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Jazz</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Special Patrol</col>
+    <col>4:20</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Black Spine</col>
+    <col>7:36</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Graphicks</col>
+    <col>3:47</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Lumikko</col>
+    <col>4:02</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="2"
+  unique=""
+  title="Life's Too Good"
+  cover="Kansikuvat/Lifes_Too_Good.jpg"
+  backpic=""
+  artist="The Sugarcubes"
+  running="33:05"
+  release="1988"
+  label="Elektra Records"
+  rating="0"
+  ratingpress="0"
+  added="17/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Alternative</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Traitor</col>
+    <col>3:08</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Motorcrash</col>
+    <col>2:23</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Birthday</col>
+    <col>3:59</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Delicious Demon</col>
+    <col>2:43</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Mama</col>
+    <col>2:56</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Coldsweat</col>
+    <col>3:15</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Blue Eyed Pop</col>
+    <col>2:38</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Deus</col>
+    <col>4:07</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Sick for Toys</col>
+    <col>3:15</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>F***ing in Rhytm &amp; Sorrow</col>
+    <col>3:14</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Take Some Petrol Darling (Hidden track)</col>
+    <col>1:27</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="3"
+  unique=""
+  title="ANThology"
+  cover="Kansikuvat/ANThology_AAF.jpg"
+  backpic=""
+  artist="Alien Ant Farm"
+  running="52:26"
+  release="2001"
+  label="SKG Music L.L.C."
+  rating="0"
+  ratingpress="0"
+  added="17/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Rock</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Courage</col>
+    <col>3:30</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Movies</col>
+    <col>3:15</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Flesh and Bone</col>
+    <col>4:28</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Whisper</col>
+    <col>3:25</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Summer</col>
+    <col>4:15</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Sticks and Stones</col>
+    <col>3:16</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Attitude</col>
+    <col>4:54</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Stranded</col>
+    <col>3:57</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Wish</col>
+    <col>3:21</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Calico</col>
+    <col>4:10</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Death Day</col>
+    <col>4:33</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>Smooth Criminal</col>
+    <col>3:29</col>
+   </line>
+   <line>
+    <col>13</col>
+    <col>Universe</col>
+    <col>(5:53)</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="4"
+  unique=""
+  title="Mind Games"
+  cover="Kansikuvat/mindgames.jpg"
+  backpic=""
+  artist="John Lennon"
+  running="40:34"
+  release="1973"
+  label="EMI Records"
+  rating="0"
+  ratingpress="0"
+  added="17/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Rock</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Mind Games</col>
+    <col>4:13</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Tight A$</col>
+    <col>3:37</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Aisumasen (I'm Sorry)</col>
+    <col>4:44</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>One Day (At a Time)</col>
+    <col>3:09</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Bring on the Lucie (Freda Peeple)</col>
+    <col>4:12</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Nutopian International Anthem</col>
+    <col>0:03</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Intuition</col>
+    <col>3:08</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Out the Blue</col>
+    <col>3:23</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Only People</col>
+    <col>3:23</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>I Know (I Know)</col>
+    <col>3:49</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>You Are Here</col>
+    <col>4:08</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>Meat City</col>
+    <col>2:45</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="5"
+  unique=""
+  title="Viekää minut johtajanne luo"
+  cover="Kansikuvat/taustasateily_johtaja.jpg"
+  backpic=""
+  artist="Elmeri Vehkala &amp; Taustasäteily"
+  running="26:03"
+  release="2010"
+  label="Punainen Planeetta"
+  genre=""
+  rating="0"
+  ratingpress="0"
+  added="17/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Countryenkeli</col>
+    <col>3:10</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Minä ja partainen mies</col>
+    <col>2:44</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Hymy</col>
+    <col>3.14</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Made in Korea</col>
+    <col>2:57</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Sähkökettu</col>
+    <col>2:27</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Pallas Athene (Oodi markkinataloudelle)</col>
+    <col>3:46</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Sädemies L.O.V.E.</col>
+    <col>4:37</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Di-da-daa</col>
+    <col>3:08</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="6"
+  unique=""
+  title="Mantra Mix #1"
+  cover="Kansikuvat/mantramix.jpg"
+  backpic=""
+  artist="Various"
+  running="73:23"
+  release="2000"
+  label="Narada World"
+  genre=""
+  rating="0"
+  ratingpress="0"
+  added="17/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Right Here, Right Now</col>
+    <col>5:53</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Everything Will Flow</col>
+    <col>4:37</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>One Too Many Mornings</col>
+    <col>4:11</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Shanti/Ashtangi</col>
+    <col>4:29</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>The Connection</col>
+    <col>3:42</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>This Is To Mother You</col>
+    <col>3:10</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>History Repeating</col>
+    <col>4:02</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Lotus (Weird Mix)</col>
+    <col>4:33</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>AIn't Got So Far To Go</col>
+    <col>4:07</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Angel</col>
+    <col>6:17</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Rino's Prayer</col>
+    <col>6:29</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>Tattva (Lucky 13 Mix)</col>
+    <col>3:56</col>
+   </line>
+   <line>
+    <col>13</col>
+    <col>Seven Years</col>
+    <col>4:55</col>
+   </line>
+   <line>
+    <col>14</col>
+    <col>Everloving</col>
+    <col>3:19</col>
+   </line>
+   <line>
+    <col>15</col>
+    <col>Games Without Frontiers (Massive/DB Mix)</col>
+    <col>5:18</col>
+   </line>
+   <line>
+    <col>16</col>
+    <col>One Road to Freedom</col>
+    <col>4:15</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="7"
+  unique=""
+  title="Mantra Mix #2"
+  cover="Kansikuvat/mantramix.jpg"
+  backpic=""
+  artist="Various"
+  running="41:57"
+  release="2000"
+  label="Narada World"
+  genre=""
+  rating="0"
+  ratingpress="0"
+  added="17/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Tibetan Prayer</col>
+    <col>1:10</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Mantra Mix</col>
+    <col>3:35</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Compassion In Exile</col>
+    <col>5:26</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Remix: Peaceful Mind</col>
+    <col>4:47</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Banzaguru - Heartbeat of Tibet</col>
+    <col>2:23</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Dalai Lama Loves You All</col>
+    <col>4:20</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Mantra Mix Remix</col>
+    <col>4:54</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Mantra Mix (Jungle Mix)</col>
+    <col>6:30</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Samaya</col>
+    <col>6:05</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Tibetan Chant</col>
+    <col>2:40</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="8"
+  unique=""
+  title="Sä osaat!"
+  cover="Kansikuvat/Erin-sa_osaat.png"
+  backpic=""
+  artist="Erin"
+  running="36:48"
+  release="7.6.2013"
+  label="Warner Music Finland"
+  genre=""
+  rating="0"
+  ratingpress="0"
+  added="17/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Älä tule hyvä tyttö</col>
+    <col>3:16</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Ei taida tietää tyttö</col>
+    <col>3:29</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Toiset mimmit</col>
+    <col>3:52</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Laura tietää sen</col>
+    <col>3:40</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Väärä mies</col>
+    <col>3:52</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Mä kuulun tähän</col>
+    <col>3:59</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Kakkukahvit</col>
+    <col>3:33</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Annan maani pyöriä</col>
+    <col>3:33</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>En sano</col>
+    <col>3:52</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Oisko se toi</col>
+    <col>3:42</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="9"
+  unique=""
+  title="South Park: Bigger, Longer &amp; Uncut"
+  cover="Kansikuvat/southpark.jpg"
+  backpic=""
+  artist="various"
+  running="0"
+  release="1999"
+  label="WEA International"
+  genre=""
+  rating="0"
+  ratingpress="0"
+  added="17/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Mountain Town</col>
+    <col></col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Uncle F**ka</col>
+    <col></col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>It's Easy, Mmmkay</col>
+    <col></col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Blame Canada</col>
+    <col></col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Kyle's Mom's A **ch</col>
+    <col></col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>What Would Brian Boitano Do?</col>
+    <col></col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Up There</col>
+    <col></col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>La Resistance (Medley)</col>
+    <col></col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Eyes of a Child</col>
+    <col></col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>I Can Change</col>
+    <col></col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>I'm Super</col>
+    <col></col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>Mountain Town (Reprise)</col>
+    <col></col>
+   </line>
+   <line>
+    <col>13</col>
+    <col>Good Love</col>
+    <col></col>
+   </line>
+   <line>
+    <col>14</col>
+    <col>Shut Yo Face (Uncle Fu**ka)</col>
+    <col></col>
+   </line>
+   <line>
+    <col>15</col>
+    <col>Riches To Rags (Mmmkay)</col>
+    <col></col>
+   </line>
+   <line>
+    <col>16</col>
+    <col>Kyle's Mom's A Big Fat B**ch</col>
+    <col></col>
+   </line>
+   <line>
+    <col>17</col>
+    <col>What Would Brian Boitano Do? Pt. II</col>
+    <col></col>
+   </line>
+   <line>
+    <col>18</col>
+    <col>I Swear It (I Can Change)</col>
+    <col></col>
+   </line>
+   <line>
+    <col>19</col>
+    <col>Super</col>
+    <col></col>
+   </line>
+   <line>
+    <col>20</col>
+    <col>O Canada</col>
+    <col></col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="10"
+  unique=""
+  title="Silmänkääntötemppu"
+  cover="Kansikuvat/Silmankaantotemppu.jpg"
+  backpic=""
+  artist="Don Huonot"
+  running="41:38"
+  release="1991"
+  label="Johanna Kustannus"
+  rating="0"
+  ratingpress="0"
+  added="18/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Rock</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Aika</col>
+    <col>6:09</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Pieniä sieviä sieniä</col>
+    <col>3:22</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Juorukellot</col>
+    <col>4:27</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Hermoraunio</col>
+    <col>2:57</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Manimania</col>
+    <col>4:18</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>D on huono T</col>
+    <col>3:30</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Iidus-linnun kootut selitykset</col>
+    <col>3:09</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Absurdit sävelkorvat</col>
+    <col>4:41</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Rauhanpiippu</col>
+    <col>4:17</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Kaaos</col>
+    <col>5:18</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="11"
+  unique=""
+  title="Complete... Kaikki"
+  cover="Kansikuvat/manamana-Complete.png"
+  backpic=""
+  artist="Mana Mana"
+  running="73:34"
+  release="2000"
+  label="Poko Records"
+  genre=""
+  rating="0"
+  ratingpress="0"
+  added="18/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Maria Magdalena</col>
+    <col>4:28</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Vaarallista</col>
+    <col>5:07</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Totuus palaa</col>
+    <col>3:11</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Ilmestyskirjan peto</col>
+    <col>5:27</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Mikä on sun taivas</col>
+    <col>4:10</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Kuolla elävänä</col>
+    <col>5:05</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Kristinusko</col>
+    <col>4:05</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Valtatie</col>
+    <col>3:28</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Ketä sä rakastat</col>
+    <col>2:54</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Paniikki on ekstaasin veli</col>
+    <col>2:53</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Maria Magdalena</col>
+    <col>5:11</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>Hän on paha</col>
+    <col>2:52</col>
+   </line>
+   <line>
+    <col>13</col>
+    <col>Raptori</col>
+    <col>3:24</col>
+   </line>
+   <line>
+    <col>14</col>
+    <col>Suikki</col>
+    <col>4:09</col>
+   </line>
+   <line>
+    <col>15</col>
+    <col>Truth is burning</col>
+    <col>3:13</col>
+   </line>
+   <line>
+    <col>16</col>
+    <col>The beast</col>
+    <col>5:43</col>
+   </line>
+   <line>
+    <col>17</col>
+    <col>To die alive</col>
+    <col>5:15</col>
+   </line>
+   <line>
+    <col>18</col>
+    <col>Who do you love</col>
+    <col>2:59</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="12"
+  unique=""
+  title="Black Sabbath"
+  cover="Kansikuvat/black-sabbath_black-sabbath.jpg"
+  backpic=""
+  artist="Black Sabbath"
+  running="42:55"
+  release="13.2.1970"
+  label="Sanctuary Records Group Ltd."
+  genre=""
+  rating="0"
+  ratingpress="0"
+  added="18/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Black Sabbath</col>
+    <col>6:20</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>The Wizard</col>
+    <col>4:24</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Behind the Wall of Sleep</col>
+    <col>3:37</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>N.I.B.</col>
+    <col>6:08</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Evil Woman</col>
+    <col>3:25</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Sleeping Village</col>
+    <col>3:46</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>The Warning</col>
+    <col>10:28</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Wicked World</col>
+    <col>4:47</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="13"
+  unique=""
+  title="The Ozzman Cometh: The Best of Ozzy Osbourne"
+  cover="Kansikuvat/best-of-ozzy.jpg"
+  backpic=""
+  artist="Ozzy Osbourne"
+  running="76:39"
+  release="1997"
+  label="Sony Music Entertainment"
+  rating="0"
+  ratingpress="0"
+  added="18/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Heavy Rock</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Black Sabbath</col>
+    <col>9:25</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>War Pigs</col>
+    <col>8:15</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Goodbye to Romance</col>
+    <col>5:32</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Crazy Train</col>
+    <col>4:50</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Mr. Crowley</col>
+    <col>4:56</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Over the Mountain</col>
+    <col>4:32</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Paranoid</col>
+    <col>2:52</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Bark at the Moon</col>
+    <col>4:17</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Shot in the Dark</col>
+    <col>3:44</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Crazy Babies</col>
+    <col>4:14</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>No More Tears</col>
+    <col>5:54</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>Mama, I'm Coming Home</col>
+    <col>4:11</col>
+   </line>
+   <line>
+    <col>13</col>
+    <col>I Don't Want to Change the World</col>
+    <col>4:00</col>
+   </line>
+   <line>
+    <col>14</col>
+    <col>I Just Want You</col>
+    <col>4:57</col>
+   </line>
+   <line>
+    <col>15</col>
+    <col>Back on Earth</col>
+    <col>5:00</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="14"
+  unique=""
+  title="Love Beyond This World"
+  cover="Kansikuvat/LoveBeyondWorld.jpg"
+  backpic=""
+  artist="Kwan"
+  running="40:52"
+  release="2004"
+  label="Grotto Entertainment Oy Ltd."
+  rating="0"
+  ratingpress="0"
+  added="18/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Rock</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Black Lotus</col>
+    <col>3:51</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Twang</col>
+    <col>3:55</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Sacrifice</col>
+    <col>3:56</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Unconditional Love</col>
+    <col>3:45</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Decadence of the Heart</col>
+    <col>4:06</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Sharks in the Bloody Waters</col>
+    <col>2:58</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Forgiveness</col>
+    <col>3:32</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Nothing Else Matters</col>
+    <col>4:11</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Footsteps</col>
+    <col>4:04</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>For You</col>
+    <col>4:05</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Dreaming of...</col>
+    <col>2:29</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="15"
+  unique=""
+  title="Sisäinen solarium"
+  cover="Kansikuvat/Solarium.jpg"
+  backpic=""
+  artist="Ismo Alanko"
+  running="61:20"
+  release="2000"
+  label="Poko Records"
+  rating="0"
+  ratingpress="0"
+  added="18/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Suomirock</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Kirskainen Hyvätyinen</col>
+    <col>4:10</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Sisäinen solarium</col>
+    <col>5:23</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Kosovo</col>
+    <col>7:54</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Tyhmää</col>
+    <col>2:30</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Media</col>
+    <col>2:49</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Datsun</col>
+    <col>5:30</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Paha silmä</col>
+    <col>3:44</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>T</col>
+    <col>2:56</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Sana leijui</col>
+    <col>5:13</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Vallankumous</col>
+    <col>4:10</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>E-mail.internet.seksi.seksi.seksi</col>
+    <col>3:21</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>Ehkäpä elämä onkin vain sitä miltä tuntuu</col>
+    <col>3:34</col>
+   </line>
+   <line>
+    <col>13</col>
+    <col>Minuutin hiljaisuus</col>
+    <col>1:00</col>
+   </line>
+   <line>
+    <col>14</col>
+    <col>Sampo</col>
+    <col>9:03</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="16"
+  unique=""
+  title="Aurinko"
+  cover="Kansikuvat/CMX-Aurinko.jpg"
+  backpic=""
+  artist="CMX"
+  running="44:10"
+  release="1992"
+  label="Herodes"
+  rating="0"
+  ratingpress="0"
+  added="18/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Rock</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Pyhiinvaeltaja</col>
+    <col>3:12</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Härjät</col>
+    <col>3:45</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Aivosähkö</col>
+    <col>3:29</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Katariinanpyörä</col>
+    <col>2:30</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Todellisuuksien yleiset luokat I-IV</col>
+    <col>3:19</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Tähteinvälinen</col>
+    <col>5:10</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Manalainen</col>
+    <col>3:21</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Ainomieli</col>
+    <col>3:28</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Kaksi jokea</col>
+    <col>3:49</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Timanttirumpu</col>
+    <col>3:13</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Marian ilmestys</col>
+    <col>5:53</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="17"
+  unique=""
+  title="Maallinen vaellus 1983-2011 #1"
+  cover="Kansikuvat/Sielun+Veljet_Maallinen+vaellus.jpg"
+  backpic=""
+  artist="Sielun veljet"
+  running="75:01"
+  release="2011"
+  label="Poko Records"
+  rating="0"
+  ratingpress="0"
+  added="18/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Psykedeelinen rock</col>
+   </line>
+   <line>
+    <col>Suomirock</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Emil Zatopek</col>
+    <col>3:08</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Hovimestari ja hymyilevät käärmeet</col>
+    <col>6:55</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Yö erottaa pojasta miehen</col>
+    <col>3:57</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Elintaso</col>
+    <col>4:54</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Lapset</col>
+    <col>4:57</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Nyt nykii</col>
+    <col>2:30</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Satama</col>
+    <col>3:56</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Aina nälkä</col>
+    <col>3:03</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Hei soturit</col>
+    <col>1:42</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Peltirumpu</col>
+    <col>3:51</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Tiskirätti</col>
+    <col>3:59</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>Ikävä</col>
+    <col>2:56</col>
+   </line>
+   <line>
+    <col>13</col>
+    <col>On mulla unelma</col>
+    <col>4:14</col>
+   </line>
+   <line>
+    <col>14</col>
+    <col>Laulu</col>
+    <col>4:15</col>
+   </line>
+   <line>
+    <col>15</col>
+    <col>Kevät</col>
+    <col>3:40</col>
+   </line>
+   <line>
+    <col>16</col>
+    <col>Kuka teki huorin</col>
+    <col>4:59</col>
+   </line>
+   <line>
+    <col>17</col>
+    <col>Säkenöivä voima</col>
+    <col>3:00</col>
+   </line>
+   <line>
+    <col>18</col>
+    <col>Museossa</col>
+    <col>4:37</col>
+   </line>
+   <line>
+    <col>19</col>
+    <col>Kansallispäivä</col>
+    <col>4:28</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="18"
+  unique=""
+  title="Maallinen vaellus 1983-2011 #2"
+  cover="Kansikuvat/Sielun+Veljet_Maallinen+vaellus.jpg"
+  backpic=""
+  artist="Sielun veljet"
+  running="65:15"
+  release="2011"
+  label="Poko Records"
+  rating="0"
+  ratingpress="0"
+  added="18/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Psykedeelinen rock</col>
+   </line>
+   <line>
+    <col>Suomirock</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Shit-Hot</col>
+    <col>1:52</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Rakkaudesta</col>
+    <col>4:29</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Lainsuojaton</col>
+    <col>3:14</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Ihminen</col>
+    <col>5:34</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Alamäkeen</col>
+    <col>4:24</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Volvot ulvoo kuun savuun</col>
+    <col>3:32</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Mushroom Moon</col>
+    <col>3:26</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Life Is A Cobra</col>
+    <col>3:06</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Hey-Ho, Red Banana!</col>
+    <col>2:00</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Onnellinen päivä</col>
+    <col>4:44</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Laatikoita</col>
+    <col>4:10</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>Nukkuva hirviö</col>
+    <col>3:17</col>
+   </line>
+   <line>
+    <col>13</col>
+    <col>Sielun veljet (Live)</col>
+    <col>3:31</col>
+   </line>
+   <line>
+    <col>14</col>
+    <col>Huuhaa puuhaa (Live)</col>
+    <col>3:43</col>
+   </line>
+   <line>
+    <col>15</col>
+    <col>Tuulelta vastauksen saan (Live)</col>
+    <col>5:27</col>
+   </line>
+   <line>
+    <col>16</col>
+    <col>Mustamaalaan (Live)</col>
+    <col>3:25</col>
+   </line>
+   <line>
+    <col>17</col>
+    <col>Satujen julma taikayö (Live)</col>
+    <col>4:53</col>
+   </line>
+   <line>
+    <col>18</col>
+    <col>Outo tarina (Live)</col>
+    <col>4:28</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="19"
+  unique=""
+  title="Under Rug Swept"
+  cover="Kansikuvat/Under_Rug_Swept.png"
+  backpic=""
+  artist="Alanis Morissette"
+  running="55:28"
+  release="25.2.2002"
+  label="Maverick Records"
+  rating="0"
+  ratingpress="0"
+  added="18/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Pop rock</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>21 Things I Want in a Lover</col>
+    <col>3:28</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Narcissus</col>
+    <col>3:38</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Hands Clean</col>
+    <col>4:32</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Flinch</col>
+    <col>6:03</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>So Unsexy</col>
+    <col>5:09</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Precious Illusions</col>
+    <col>4:11</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>That Particular Time</col>
+    <col>4:22</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>A Man</col>
+    <col>4:34</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>You Owe Me Nothing in Return</col>
+    <col>4:58</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Surrendering</col>
+    <col>4:35</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="20"
+  unique=""
+  title="Jagged Little Pill"
+  cover="Kansikuvat/jagged-little-pill.jpg"
+  backpic=""
+  artist="Alanis Morissette"
+  running="57:33"
+  release="13.6.1995"
+  label="Maverick Records"
+  rating="0"
+  ratingpress="0"
+  added="18/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Pop rock</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>All I Really Want</col>
+    <col>4:44</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>You Oughta Know</col>
+    <col>4:09</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Perfect</col>
+    <col>3:07</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Hand In My Pocket</col>
+    <col>3:41</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Right Through You</col>
+    <col>2:55</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Forgiven</col>
+    <col>5:00</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>You Learn</col>
+    <col>3:59</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Head Over Feet</col>
+    <col>4:27</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Mary Jane</col>
+    <col>4:40</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Ironic</col>
+    <col>3:49</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Not The Doctor</col>
+    <col>3:47</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>Wake Up</col>
+    <col>4:53</col>
+   </line>
+   <line>
+    <col>13</col>
+    <col>You Oughta Know Remix</col>
+    <col>8:13</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="21"
+  unique=""
+  title="London 0 Hull 4"
+  cover="Kansikuvat/london-hull.jpg"
+  backpic=""
+  artist="The Housemartins"
+  running="36:43"
+  release="1986"
+  label="Elektra Records"
+  rating="0"
+  ratingpress="0"
+  added="19/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Indie Rock</col>
+   </line>
+   <line>
+    <col>Brit Rock</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Happy Hour</col>
+    <col>2:22</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Get Up Off Our Knees</col>
+    <col>3:23</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Flag Day</col>
+    <col>5:26</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Anxious</col>
+    <col>2:19</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Reverends Revenge</col>
+    <col>1:27</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Sitting On A Fence</col>
+    <col>2:58</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Sheep</col>
+    <col>2:17</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Over There</col>
+    <col>2:58</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Think For A Minute</col>
+    <col>3:30</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>We're Not Deep</col>
+    <col>2:15</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Lean On Me</col>
+    <col>4:29</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>Freedom</col>
+    <col>3:19</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="22"
+  unique=""
+  title="Missundaztood"
+  cover="Kansikuvat/missundaztood.jpg"
+  backpic=""
+  artist="P!nk"
+  running="55:20"
+  release="20.11.2001"
+  label="Arista"
+  rating="0"
+  ratingpress="0"
+  added="19/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Pop rock</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Get The Party Started</col>
+    <col>3:11</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>18 Wheeler</col>
+    <col>3:44</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Missundaztood</col>
+    <col>3:36</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Dear Diary</col>
+    <col>3:29</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Eventually</col>
+    <col>3:34</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Numb</col>
+    <col>3:06</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Just Like A Pill</col>
+    <col>3:57</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Family Portrait</col>
+    <col>4:56</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Misery</col>
+    <col>4:33</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Respect</col>
+    <col>3:25</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Don't Let Me Get Me</col>
+    <col>3:31</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>Gone To California</col>
+    <col>4:34</col>
+   </line>
+   <line>
+    <col>13</col>
+    <col>Lonely Girl</col>
+    <col>4:21</col>
+   </line>
+   <line>
+    <col>14</col>
+    <col>My Vietnam</col>
+    <col>5:19</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="23"
+  unique=""
+  title="Öisin olemme samanlaisia"
+  cover="Kansikuvat/oisin-olemme-samanlaisia.jpg"
+  backpic=""
+  artist="Jukka Orma"
+  running="40:06"
+  release="2012"
+  label="TUM Records"
+  rating="0"
+  ratingpress="0"
+  added="19/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Kitararock</col>
+   </line>
+   <line>
+    <col>Indie Rock</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Eläköön Alamaan kuningas</col>
+    <col>01:46</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Aamulla</col>
+    <col>04:12</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Tuli nukkuu</col>
+    <col>04:46</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Valo kiilaa välimme</col>
+    <col>01:27</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Hapuilusi voima</col>
+    <col>04:17</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Ajopuuteoria</col>
+    <col>05:32</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Törmäys</col>
+    <col>03:16</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Musta laatikko</col>
+    <col>01:13</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Rakkaus on</col>
+    <col>03:51</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Juuri siksi</col>
+    <col>04:06</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Ota minut</col>
+    <col>04:44</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>Lopulta Kreeta upposi</col>
+    <col>00:41</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="24"
+  unique=""
+  title="Onnenpyörä"
+  cover="Kansikuvat/onnenpyora.jpg"
+  backpic=""
+  artist="Various"
+  running="33:45"
+  release="2006"
+  label="Poko Records"
+  rating="0"
+  ratingpress="0"
+  added="19/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Rock</col>
+   </line>
+   <line>
+    <col>Iskelmä</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1 (Leputation of the Slaves)</col>
+    <col>It's My Life</col>
+    <col>3:42</col>
+   </line>
+   <line>
+    <col>2 (Kullervo Kivi &amp; Gehenna-yhtye)</col>
+    <col>Kolmatta Linjaa takaisin</col>
+    <col>2:53</col>
+   </line>
+   <line>
+    <col>3 (Pimpline &amp; The Defenites)</col>
+    <col>Shimmy Shimmy Kokobop</col>
+    <col>2:36</col>
+   </line>
+   <line>
+    <col>4 (Adolf Und Die Freie Scheisse)</col>
+    <col>Springtime for Hitler</col>
+    <col>2:35</col>
+   </line>
+   <line>
+    <col>5 (Leputation of the Slaves)</col>
+    <col>Speak Up Mambo</col>
+    <col>3:55</col>
+   </line>
+   <line>
+    <col>6 (Kullervo Kivi &amp; Gehenna-yhtye)</col>
+    <col>Seinillä on korvat</col>
+    <col>2:38</col>
+   </line>
+   <line>
+    <col>7 (Leputation of the Slaves)</col>
+    <col>Riders on the Storm</col>
+    <col>1:39</col>
+   </line>
+   <line>
+    <col>8 (Pimpline &amp; The Defenites)</col>
+    <col>All I Have To Do Is Dream</col>
+    <col>3:20</col>
+   </line>
+   <line>
+    <col>9 (Leputation of the Slaves)</col>
+    <col>I Will Stay (Bonusbiisi)</col>
+    <col>3:45</col>
+   </line>
+   <line>
+    <col>10 (Leputation of the Slaves)</col>
+    <col>Bye Bye Love (Bonusbiisi)</col>
+    <col>1:37</col>
+   </line>
+   <line>
+    <col>11 (Kullervo Kivi &amp; Gehenna-yhtye)</col>
+    <col>Vippaa mulle viitonen (Bonusbiisi)</col>
+    <col>2:44</col>
+   </line>
+   <line>
+    <col>12 (Kullervo Kivi &amp; Gehenna-yhtye)</col>
+    <col>Kulkurin iltatähti (Bonusbiisi)</col>
+    <col>2:21</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="25"
+  unique=""
+  title="Tragic Kingdom"
+  cover="Kansikuvat/Tragic_Kingdom.png"
+  backpic=""
+  artist="No Doubt"
+  running="55:55"
+  release="1995"
+  label="Interscope Records"
+  rating="0"
+  ratingpress="0"
+  added="19/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Rock</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Spiderwebs</col>
+    <col>4:28</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Excuse Me Mr.</col>
+    <col>3:04</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Just A Girl</col>
+    <col>3:29</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Happy Now?</col>
+    <col>3:43</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Different People</col>
+    <col>4:34</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Hey You</col>
+    <col>3:34</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>The Climb</col>
+    <col>6:37</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Sixteen</col>
+    <col>3:21</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Sunday Morning</col>
+    <col>4:33</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Don't Speak</col>
+    <col>4:23</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>You Can Do It</col>
+    <col>4:13</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>World Go 'Round</col>
+    <col>4:09</col>
+   </line>
+   <line>
+    <col>13</col>
+    <col>End It On This</col>
+    <col>3:45</col>
+   </line>
+   <line>
+    <col>14</col>
+    <col>Tragic Kingdom</col>
+    <col>5:31</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="26"
+  unique=""
+  title="Post Orgasmic Chill"
+  cover="Kansikuvat/Post_Orgasmic_Chill.jpg"
+  backpic=""
+  artist="Skunk Anansie"
+  running="46:50"
+  release="1999"
+  label="Virgin Records Ltd."
+  genre=""
+  rating="0"
+  ratingpress="0"
+  added="19/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Charlie Big Potato</col>
+    <col>6:21</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>On My Hotel T.V.</col>
+    <col>3:34</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>We Don't Need Who You Think You Are</col>
+    <col>4:19</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Tracy's Flaw</col>
+    <col>4:30</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>The Skank Heads</col>
+    <col>3:10</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Lately</col>
+    <col>3:53</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Secretly</col>
+    <col>4:46</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Good Things Don't Always Come To You</col>
+    <col>5:25</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Cheap Honesty</col>
+    <col>3:47</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>You'll Follow Me Down</col>
+    <col>4:02</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>And This Is Nothing That I Thought I Had</col>
+    <col>3:03</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="27"
+  unique=""
+  title="1"
+  cover="Kansikuvat/The_Beatles_1.jpg"
+  backpic=""
+  artist="The Beatles"
+  running="79:08"
+  release="2000"
+  label="Apple"
+  rating="0"
+  ratingpress="0"
+  added="19/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Rock</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Love Me Do</col>
+    <col>2:21</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>From Me to You</col>
+    <col>1:55</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>She Loves You</col>
+    <col>2:21</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>I Want To Hold You Hand</col>
+    <col>2:24</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Can't Buy Me Love</col>
+    <col>2:11</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>A Hard Day's Night</col>
+    <col>2:33</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>I Feel Fine</col>
+    <col>2:18</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Eight Days A Week</col>
+    <col>2:43</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Ticket To Ride</col>
+    <col>3:08</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Help!</col>
+    <col>2:18</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Yesterday</col>
+    <col>2:05</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>Day Tripper</col>
+    <col>2:48</col>
+   </line>
+   <line>
+    <col>13</col>
+    <col>We Can Work It Out</col>
+    <col>2:15</col>
+   </line>
+   <line>
+    <col>14</col>
+    <col>Paperback Writer</col>
+    <col>2:16</col>
+   </line>
+   <line>
+    <col>15</col>
+    <col>Yellow Submarine</col>
+    <col>2:37</col>
+   </line>
+   <line>
+    <col>16</col>
+    <col>Eleanor Rigby</col>
+    <col>2:06</col>
+   </line>
+   <line>
+    <col>17</col>
+    <col>Penny Lane</col>
+    <col>3:00</col>
+   </line>
+   <line>
+    <col>18</col>
+    <col>All You Need Is Love</col>
+    <col>3:46</col>
+   </line>
+   <line>
+    <col>19</col>
+    <col>Hello, Goodbye</col>
+    <col>3:26</col>
+   </line>
+   <line>
+    <col>20</col>
+    <col>Lady Madonna</col>
+    <col>2:15</col>
+   </line>
+   <line>
+    <col>21</col>
+    <col>Hey Jude</col>
+    <col>7:03</col>
+   </line>
+   <line>
+    <col>22</col>
+    <col>Get Back</col>
+    <col>3:12</col>
+   </line>
+   <line>
+    <col>23</col>
+    <col>The Ballad Of John And Yoko</col>
+    <col>2:57</col>
+   </line>
+   <line>
+    <col>24</col>
+    <col>Something</col>
+    <col>3:01</col>
+   </line>
+   <line>
+    <col>25</col>
+    <col>Come Together</col>
+    <col>4:16</col>
+   </line>
+   <line>
+    <col>26</col>
+    <col>Let It Be</col>
+    <col>3:48</col>
+   </line>
+   <line>
+    <col>27</col>
+    <col>The Long And Winding Road</col>
+    <col>3:36</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="28"
+  unique=""
+  title="Kolmannesvuosisata taiteilijaelämää #1"
+  cover="Kansikuvat/kolmannesvuosisata.jpg"
+  backpic=""
+  artist="Isko Alanko"
+  running="69:44"
+  release="2013"
+  label="Sony Music Entertainment"
+  rating="0"
+  ratingpress="0"
+  added="20/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Suomirock</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Rakkaudesta (live)</col>
+    <col>5:15</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Päivän uutinen (live)</col>
+    <col>4:27</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Rakkaus on ruma sana (live)</col>
+    <col>3:59</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Hiljaa virtaa veri (live)</col>
+    <col>5:22</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Hullun paperit (live)</col>
+    <col>3:40</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Elämä on hauras</col>
+    <col>5:21</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Hetki hautausmaalla (live)</col>
+    <col>3:58</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Harsoinen teräs (live)</col>
+    <col>5:29</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Tuulen selkään (live)</col>
+    <col>3:55</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Värityskirja (live)</col>
+    <col>5:12</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Räkäistä ja tarttuvaa (live)</col>
+    <col>3:47</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>Totuus vai tequila (live)</col>
+    <col>4:07</col>
+   </line>
+   <line>
+    <col>13</col>
+    <col>Rakas rämä elämä (live)</col>
+    <col>3:06</col>
+   </line>
+   <line>
+    <col>14</col>
+    <col>Maailmanlopun sushibaari (live)</col>
+    <col>5:29</col>
+   </line>
+   <line>
+    <col>15</col>
+    <col>Kun rakkaus on rikki (live)</col>
+    <col>6:37</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="30"
+  unique=""
+  title="Kolmannesvuosisata taiteilijaelämää #2"
+  cover=".cd_pictures/kolmannesvuosisata.jpg.cache.4.overlay"
+  backpic=""
+  artist="Ismo Alanko"
+  running="66:51"
+  release="2013"
+  label="Sony Music Entertainment"
+  rating="0"
+  ratingpress="0"
+  added="20/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Suomirock</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Kriisistä kriisiin (live)</col>
+    <col>5:35</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Rappiolla (live)</col>
+    <col>2:50</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Tällä tiellä (live)</col>
+    <col>3:33</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Kun Suomi putos puusta (live)</col>
+    <col>4:55</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Datsun (live)</col>
+    <col>5:09</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Levottomat jalat (live)</col>
+    <col>3:18</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Pentti (live)</col>
+    <col>3:47</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Piste (live)</col>
+    <col>5:32</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Pornografiaa (live)</col>
+    <col>6:10</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Peltirumpu (live)</col>
+    <col>5:04</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Extaasiin (liv)</col>
+    <col>5:45</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>Vittu kun vituttaa</col>
+    <col>3:55</col>
+   </line>
+   <line>
+    <col>13</col>
+    <col>Taiteilijaelämää (live)</col>
+    <col>6:44</col>
+   </line>
+   <line>
+    <col>14</col>
+    <col>Tuulipuvun tuolla puolen (live)</col>
+    <col>4:34</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="31"
+  unique=""
+  title="Pisara ja lammas #1"
+  cover="Kansikuvat/pisara-lammas-1.jpg"
+  backpic=""
+  artist="Absoluuttinen Nollapiste"
+  running="41:23"
+  release="2012"
+  label="Diu Dau Records"
+  rating="0"
+  ratingpress="0"
+  added="20/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Progressiivinen Rock</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Alkusoitto</col>
+    <col>3:08</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Planeetta Hyvä</col>
+    <col>4:03</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Juhlija</col>
+    <col>3:30</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Nainen lentää</col>
+    <col>5:08</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Kohtaaminen</col>
+    <col>3:29</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Pisara</col>
+    <col>4:07</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Paimenen uni</col>
+    <col>4:34</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Lampolan aamu</col>
+    <col>2:30</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Lammas näkee naisen</col>
+    <col>2:09</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Lampaan etsintä</col>
+    <col>5:54</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Lammas saa vainun</col>
+    <col>2:51</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="32"
+  unique=""
+  title="Pisara ja lammas #2"
+  cover="Kansikuvat/pisara-lammas-2.jpg"
+  backpic=""
+  artist="Absoluuttinen Nollapiste"
+  running="51:39"
+  release="2014"
+  label="Diu Dau Records"
+  genre=""
+  rating="0"
+  ratingpress="0"
+  added="20/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <tracks>
+   <line>
+    <col>12</col>
+    <col>Äidin varoitus</col>
+    <col>3:52</col>
+   </line>
+   <line>
+    <col>13</col>
+    <col>Taverna</col>
+    <col>9:11</col>
+   </line>
+   <line>
+    <col>14</col>
+    <col>Sovinto</col>
+    <col>2:04</col>
+   </line>
+   <line>
+    <col>15</col>
+    <col>Lammas matkustaa</col>
+    <col>4:25</col>
+   </line>
+   <line>
+    <col>16</col>
+    <col>Heinäsirkka</col>
+    <col>6:20</col>
+   </line>
+   <line>
+    <col>17</col>
+    <col>Saapuminen planeetalle</col>
+    <col>3:23</col>
+   </line>
+   <line>
+    <col>18</col>
+    <col>Muodonmuutos heikentää</col>
+    <col>3:07</col>
+   </line>
+   <line>
+    <col>19</col>
+    <col>Kirves tummuu</col>
+    <col>5:49</col>
+   </line>
+   <line>
+    <col>20</col>
+    <col>Synnytys</col>
+    <col>5:35</col>
+   </line>
+   <line>
+    <col>21</col>
+    <col>Paljastuminen</col>
+    <col>6:34</col>
+   </line>
+   <line>
+    <col>22</col>
+    <col>Loppusoitto</col>
+    <col>1:19</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="33"
+  unique=""
+  title="Happy Hour"
+  cover="Kansikuvat/Happy_Hour.jpg"
+  backpic=""
+  artist="Shonen Knife"
+  running="40:47"
+  release="23.6.1998"
+  label="Universal Victor Inc."
+  genre=""
+  rating="0"
+  ratingpress="0"
+  added="20/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Shonen Knife Planet</col>
+    <col>2:09</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Konnichiwa</col>
+    <col>1:42</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Cookie Day</col>
+    <col>2:26</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Hot Chocolate</col>
+    <col>3:11</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Sushi Bar</col>
+    <col>1:49</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Fish Eyes</col>
+    <col>3:05</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Banana Chips</col>
+    <col>2:59</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Dolly</col>
+    <col>3:47</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Jackalope</col>
+    <col>3:06</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Gyoza</col>
+    <col>3:07</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Catch Your Bus</col>
+    <col>2:34</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>People Traps</col>
+    <col>3:45</col>
+   </line>
+   <line>
+    <col>13</col>
+    <col>His Pet</col>
+    <col>4:26</col>
+   </line>
+   <line>
+    <col>14</col>
+    <col>Daydream Believer</col>
+    <col>2:51</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="34"
+  unique=""
+  title="Nikki and the Corvettes"
+  cover="Kansikuvat/nikki-corvettes.jpg"
+  backpic=""
+  artist="Nikki and the Corvettes"
+  running="32:09"
+  release="1980"
+  label="Bomp! Records"
+  rating="0"
+  ratingpress="0"
+  added="20/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Rock</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>He's a Mover</col>
+    <col>2:15</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>You're the One</col>
+    <col>1:57</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>C'mon</col>
+    <col>2:15</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Just What I Need</col>
+    <col>2:46</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Boys, Boys, Boys</col>
+    <col>2:01</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Let's Go</col>
+    <col>1:14</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Shake It Up</col>
+    <col>1:47</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Back Seat Love</col>
+    <col>1:50</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>I Wanna Be Your Girlfriend</col>
+    <col>1:52</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Summertime Fun</col>
+    <col>2:06</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Gimme Gimme</col>
+    <col>1:58</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>You Make Me Crazy</col>
+    <col>1:54</col>
+   </line>
+   <line>
+    <col>13</col>
+    <col>Young and Crazy</col>
+    <col>1:55</col>
+   </line>
+   <line>
+    <col>14</col>
+    <col>Criminal Element</col>
+    <col>1:28</col>
+   </line>
+   <line>
+    <col>15</col>
+    <col>I Gotta Move</col>
+    <col>2:24</col>
+   </line>
+   <line>
+    <col>16</col>
+    <col>Girls Like Me</col>
+    <col>2:27</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="35"
+  unique=""
+  title="Kanuunaralli"
+  cover="Kansikuvat/kanuunaralli.jpg"
+  backpic=""
+  artist="Nypykät"
+  running="37:31"
+  release="1991"
+  label="Poko Records"
+  genre=""
+  rating="0"
+  ratingpress="0"
+  added="20/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Kanuunaralli</col>
+    <col>2:10</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Kuppi</col>
+    <col>2:20</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Kerro, kerro kuvastin</col>
+    <col>1:49</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Lastenlaulu</col>
+    <col>2:27</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Haribo</col>
+    <col>1:55</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Häikäisee</col>
+    <col>2:16</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Hirmumyrskyn aikaan</col>
+    <col>4:38</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Entinen tyttö</col>
+    <col>2:43</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Niukkasen toimisto</col>
+    <col>2:56</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Pääskynen III</col>
+    <col>2:46</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Jazzilla taivaaseen</col>
+    <col>3:41</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>Raikulipolkka</col>
+    <col>2:06</col>
+   </line>
+   <line>
+    <col>13</col>
+    <col>Karuselli</col>
+    <col>2:19</col>
+   </line>
+   <line>
+    <col>14</col>
+    <col>Salaisuus</col>
+    <col>3:25</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="36"
+  unique=""
+  title="Tulevat tänne sotkemaan meidän ajopuuteorian"
+  cover="Kansikuvat/Tulevat_sotkemaan.jpg"
+  backpic=""
+  artist="Raptori"
+  running="36:04"
+  release="1991"
+  label="Megamania"
+  genre=""
+  rating="0"
+  ratingpress="0"
+  added="20/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Karvanoppaelvis</col>
+    <col>3:14</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>S.K.A.H. (Ime mun sitä!)</col>
+    <col>2:52</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Älä (näkymää)</col>
+    <col>4:50</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Älä syö humehia</col>
+    <col>3:58</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Sukellus pumpuliin</col>
+    <col>5:03</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Tyyris Tyllerö</col>
+    <col>5:53</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Pervo-nallen kevätretki</col>
+    <col>3:00</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Tehtään kvanttimezurit</col>
+    <col>2:05</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Oi beibi 2</col>
+    <col>4:18</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Suomenkielinen räp-biisi</col>
+    <col>1:10</col>
+   </line>
+   <line>
+    <col></col>
+    <col>Piiloraidat</col>
+    <col></col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="37"
+  unique=""
+  title="Hit Collection 2000"
+  cover="Kansikuvat/ennio.jpg"
+  backpic=""
+  artist="Ennio Morricone"
+  running="78:52"
+  release="2000"
+  label="DJ's Club Rec. GmbH"
+  rating="0"
+  ratingpress="0"
+  added="20/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Elokuvat</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>For a Few Dollars More</col>
+    <col>2:48</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Chi Mai</col>
+    <col>5:10</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>My Name Is Nobody</col>
+    <col>3:14</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Cocrey's Song</col>
+    <col>4:21</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Theme From The Mission</col>
+    <col>2:57</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>The Good, The Bad &amp; The Ugly</col>
+    <col>2:42</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Le Train</col>
+    <col>5:21</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Once Upon a Time In The West</col>
+    <col>5:09</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Fantic</col>
+    <col>4:00</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Death Time</col>
+    <col>2:35</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Moses Time</col>
+    <col>4:07</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>Bye Bye Colonel</col>
+    <col>2:06</col>
+   </line>
+   <line>
+    <col>13</col>
+    <col>The Untouchables</col>
+    <col>2:59</col>
+   </line>
+   <line>
+    <col>14</col>
+    <col>Orient Express</col>
+    <col>4:18</col>
+   </line>
+   <line>
+    <col>15</col>
+    <col>I'm Gonna Love You</col>
+    <col>4:19</col>
+   </line>
+   <line>
+    <col>16</col>
+    <col>A Fistful Of Dollars</col>
+    <col>2:30</col>
+   </line>
+   <line>
+    <col>17</col>
+    <col>Good Luck Jack</col>
+    <col>6:13</col>
+   </line>
+   <line>
+    <col>18</col>
+    <col>A Gun Ringo</col>
+    <col>2:21</col>
+   </line>
+   <line>
+    <col>19</col>
+    <col>The Man With The Harmonica</col>
+    <col>3:31</col>
+   </line>
+   <line>
+    <col>20</col>
+    <col>A Fistful Of Dynamite</col>
+    <col>4:40</col>
+   </line>
+   <line>
+    <col>21</col>
+    <col>La Libertad</col>
+    <col>2:01</col>
+   </line>
+   <line>
+    <col>22</col>
+    <col>Gabriel's Oboe (The Mission)</col>
+    <col>2:14</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="38"
+  unique=""
+  title="Satasen laina"
+  cover="Kansikuvat/Satasenlaina.jpg"
+  backpic=""
+  artist="Nylon Beat"
+  running="50:12"
+  release="1997"
+  label="MTV-Musiikki"
+  rating="0"
+  ratingpress="0"
+  added="22/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Pop</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Orja</col>
+    <col>3:31</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>NYPD Blue</col>
+    <col>4:29</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Huume</col>
+    <col>3:42</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Sukelletaan</col>
+    <col>3:49</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Kuumalle hiekalle</col>
+    <col>3:24</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Nylonkuu</col>
+    <col>3:13</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Satasen Laina</col>
+    <col>3:16</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Ne selviytyy</col>
+    <col>3:52</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Veit multa frendin</col>
+    <col>3:44</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Faija Päivystää</col>
+    <col>3:04</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Jos</col>
+    <col>3:41</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>Senegalin yöt</col>
+    <col>3:41</col>
+   </line>
+   <line>
+    <col>13</col>
+    <col>Satasen laina (Satasen Remix)</col>
+    <col>4:55</col>
+   </line>
+   <line>
+    <col>14</col>
+    <col>Satasen                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        Satasen laina (Chorus accapella)</col>
+    <col>0:21</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="39"
+  unique=""
+  title="Demo"
+  cover="Kansikuvat/Nylon-Beat-Demo.jpg"
+  backpic=""
+  artist="Nylon Beat"
+  running="45:44"
+  release="2000"
+  label="Suomen Mediamusiikki Oy"
+  rating="0"
+  ratingpress="0"
+  added="23/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Pop</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Demoja</col>
+    <col>3:59</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Takapulpetin poika</col>
+    <col>3:51</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Syntinen</col>
+    <col>3:51</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Sairaanfuckingkipeenraastavaa</col>
+    <col>3:46</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Syytön</col>
+    <col>4:03</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Missä mennään</col>
+    <col>3:52d</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Venäjää</col>
+    <col>3:06</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Viha ja rakkaus</col>
+    <col>2:59</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Vaikka kuolisin</col>
+    <col>3:26</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Soita mulle</col>
+    <col>3:43</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Vaihdan</col>
+    <col>3:32</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>Haloo avaruus</col>
+    <col>4:06</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="40"
+  unique=""
+  title="Nylon Beat"
+  cover="Kansikuvat/Nylon-beat.jpg"
+  backpic=""
+  artist="Nylon Beat"
+  running="67:53"
+  release="1996"
+  label="MTV-Musiikki"
+  rating="0"
+  ratingpress="0"
+  added="23/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Pop</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Satelliitti irrallaan</col>
+    <col>4:56</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Teflonlove</col>
+    <col>3:49</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Naparengas</col>
+    <col>4:09</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Valmis oon vaikka armeijaan</col>
+    <col>4:06</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Rakastuin mä looseriin</col>
+    <col>4:17</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Elämä on lyhyt</col>
+    <col>3:55</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Yo-yo</col>
+    <col>3:37</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Kun kundi pelkää</col>
+    <col>3:16</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Mikset mua sä jättänyt oo</col>
+    <col>3:44</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Hei - me tehdään ydinkoe</col>
+    <col>4:48</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Oot kuin karkkia mulle</col>
+    <col>3:23</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>Miksi on niin vaikeaa</col>
+    <col>3:27</col>
+   </line>
+   <line>
+    <col>13</col>
+    <col>La-la-la</col>
+    <col>3:28</col>
+   </line>
+   <line>
+    <col>14</col>
+    <col>Kreisi oon</col>
+    <col>3:42</col>
+   </line>
+   <line>
+    <col>15</col>
+    <col>Pimeä taivas</col>
+    <col>3:13</col>
+   </line>
+   <line>
+    <col>16</col>
+    <col>Rakastuin mä looseeriin Nylon speed looser - Mix</col>
+    <col>5:08</col>
+   </line>
+   <line>
+    <col>17</col>
+    <col>Teflonlove 68 BPM slow motion Mix</col>
+    <col>3:56</col>
+   </line>
+   <line>
+    <col>18</col>
+    <col>N-Files (Outro)</col>
+    <col>0:25</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="41"
+  unique=""
+  title="Viimeinen"
+  cover="Kansikuvat/valehtelija.jpg"
+  backpic=""
+  artist="Nylon Beat"
+  running="49:22"
+  release="15.1.1999"
+  label="MTV-Musiikki"
+  rating="0"
+  ratingpress="0"
+  added="23/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Pop</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Ainut jonka sain</col>
+    <col>4:02</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Viimeinen</col>
+    <col>3:42</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Valehtelija</col>
+    <col>3:59</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Liikaa</col>
+    <col>3:50</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Patteri</col>
+    <col>3:55</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Mies</col>
+    <col>3:24</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Jonain päivänä</col>
+    <col>4:23</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Paikka palaa</col>
+    <col>4:01</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Seksi vie ja taksi tuo</col>
+    <col>3:32</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Koditon</col>
+    <col>4:18</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Adios</col>
+    <col>4:31</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>Mies - Deep club mix</col>
+    <col>5:23</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="42"
+  unique=""
+  title="Extreme"
+  cover="Kansikuvat/Extreme.jpg"
+  backpic=""
+  artist="Nylon Beat"
+  running="45:42"
+  release="21.11.2001"
+  label="Mediamusiikki"
+  rating="0"
+  ratingpress="0"
+  added="23/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Pop</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Extreme</col>
+    <col>3:25</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Hei D.J.</col>
+    <col>3:17</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Anna mulle</col>
+    <col>3:54</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Kutsu julkkis bailaamaan</col>
+    <col>3:51</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Sanoja</col>
+    <col>3:33</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Shut up</col>
+    <col>3:27</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Ding dong</col>
+    <col>3:05</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Kengät crocodile</col>
+    <col>3:12</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Multa tulta saa</col>
+    <col>3:32</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Moka</col>
+    <col>3:10</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Tytöt haluaa</col>
+    <col>3:40</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>Täytyy säätää</col>
+    <col>3:22</col>
+   </line>
+   <line>
+    <col>13</col>
+    <col>Sano jee</col>
+    <col>3:51</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="43"
+  unique=""
+  title="Viimeinen"
+  cover="Kansikuvat/Nylonbeat-viimeinen.png"
+  backpic=""
+  artist="Nylon Beat"
+  running="7:24"
+  release="1998"
+  label="MTV-Musiikki"
+  rating="0"
+  ratingpress="0"
+  added="23/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Pop</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Viimeinen</col>
+    <col>3:42</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Viimeinen garage mix</col>
+    <col>3:42</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="44"
+  unique=""
+  title="Seksi vie ja taksi tuo"
+  cover="Kansikuvat/Seksi_vie_ja_taksi_tuo.jpg"
+  backpic=""
+  artist="Nylon Beat"
+  running="16:43"
+  release="1999"
+  label="MTV-Musiikki"
+  rating="0"
+  ratingpress="0"
+  added="23/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Pop</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Seksi vie ja taksi tuo</col>
+    <col>3:35</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Liikaa</col>
+    <col>3:50</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Seksi vie ja taksi tuo Funky duck remix</col>
+    <col>4:20</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Liikaa Goa remix</col>
+    <col>4:58</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="45"
+  unique=""
+  title="Splatter Baby"
+  cover="Kansikuvat/splatter-baby.jpg"
+  backpic=""
+  artist="Demented Scumcats"
+  running="50:33"
+  release="8.8.2005"
+  label="Crazy Love Records"
+  rating="0"
+  ratingpress="0"
+  added="23/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Psychobilly</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Blue Viper</col>
+    <col>2:07</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>White Stocking Tops (remix)</col>
+    <col>2:52</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Splatter Baby</col>
+    <col>3:07</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Snail Train (remix)</col>
+    <col>3:00</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Pitchfork Blues (Farmyard mix)</col>
+    <col>4:35</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Man of Constant Sorrow</col>
+    <col>2:45</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Holocause Island</col>
+    <col>1:29</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Hills on Fire</col>
+    <col>3:08</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>I Don't Need No Doctor</col>
+    <col>2:45</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Hillside Strangler</col>
+    <col>2:57</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>I Don't Want You (remix)</col>
+    <col>4:13</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>Where's Johnny Gizmo</col>
+    <col>1:54</col>
+   </line>
+   <line>
+    <col>13</col>
+    <col>Pitchfork Blues / I Don't Need No Doctor (remix)</col>
+    <col>15:41</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="46"
+  unique=""
+  title="The Seer"
+  cover="Kansikuvat/The_Seer_Big_Country.jpg"
+  backpic=""
+  artist="Big Country"
+  running="46:42"
+  release="1986"
+  label="Mercury Records"
+  rating="0"
+  ratingpress="0"
+  added="23/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Rock</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Look Away</col>
+    <col>4:24</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>The Seer</col>
+    <col>5:25</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>The Teacher</col>
+    <col>4:01</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>I Walk The Hill</col>
+    <col>3:30</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Eiledon</col>
+    <col>5:36</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>One Great Thing</col>
+    <col>4:01</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Hold The Heart</col>
+    <col>6:05</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Remembrance Day</col>
+    <col>4:29</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Red Fox</col>
+    <col>4:11</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Sailor</col>
+    <col>4:53</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Song Of The South</col>
+    <col>3:48</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>Look Away (12'' Mix)</col>
+    <col>6:31</col>
+   </line>
+   <line>
+    <col>13</col>
+    <col>One Great Thing (Disco Mix)</col>
+    <col>6:11</col>
+   </line>
+   <line>
+    <col>14</col>
+    <col>Giant</col>
+    <col>3:55</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="47"
+  unique=""
+  title="...Best I"
+  cover="Kansikuvat/Smiths-Best-1.jpg"
+  backpic=""
+  artist="The Smiths"
+  running="45:04"
+  release="17.8.1992"
+  label="Warner Music Group"
+  rating="0"
+  ratingpress="0"
+  added="23/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Indie Rock</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>This Charming Man</col>
+    <col>2:43</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>William, It Was Really Nothing</col>
+    <col>2:11</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>What DIfference Does It Make?</col>
+    <col>3:51</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Stop Me If You Think You've Heard This One Before</col>
+    <col>3:33</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Girlfriend In A Coma</col>
+    <col>2:03</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Half A Person</col>
+    <col>3:37</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Rubber Ring</col>
+    <col>3:48</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>How Soon Is Now</col>
+    <col>6:46</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Hand In Glove</col>
+    <col>3:23</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Shoplifters Of The World Unite</col>
+    <col>2:59</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Sheila Take A Bow</col>
+    <col>2:42</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>Some Girls Are Bigger Than Others</col>
+    <col>3:16</col>
+   </line>
+   <line>
+    <col>13</col>
+    <col>Panic</col>
+    <col>2:20</col>
+   </line>
+   <line>
+    <col>14</col>
+    <col>Please Please Please Let Me Get What I Want</col>
+    <col>1:52</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="48"
+  unique=""
+  title="Gobbledygook"
+  cover="Kansikuvat/gobbldygook.jpg"
+  backpic=""
+  artist="Poverty Stinks"
+  running="44:47"
+  release="1992"
+  label="Poko Records"
+  rating="0"
+  ratingpress="0"
+  added="23/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Pop</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>And She Laughed</col>
+    <col>3:45</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Somebody Is Waiting For Somebody</col>
+    <col>3:41</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>That Girl Is Gone</col>
+    <col>4:34</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>One Thing On My Mind</col>
+    <col>3:00</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Let The Man Play</col>
+    <col>3:16</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>It's Not That Easy</col>
+    <col>4:07</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>It can't Get Out Of Hand</col>
+    <col>3:05</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Devil In Her Heart</col>
+    <col>4:16</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>I Really Don't Know</col>
+    <col>3:011</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>A Million Lies</col>
+    <col>4:28</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Shades</col>
+    <col>3:16</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>Time</col>
+    <col>3:38</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="49"
+  unique=""
+  title="Symphony No. 6 in F, Op. 68 &quot;Pastoral&quot;"
+  cover="Kansikuvat/pastoral-symphony.jpg"
+  backpic=""
+  artist="Slovak Philharmonic Orchestra / Bystrick Rezucha"
+  running="43:42"
+  release=""
+  label="Germidas Musikproduktion GmBH"
+  rating="0"
+  ratingpress="0"
+  added="23/09/2017"
+  location=""
+  origin=""
+  composer="Ludwig van Beethoven"
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Klassinen</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Erwachen heiterer Empfindungen bei der Ankunft auf dem Lande</col>
+    <col>10:30</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Szene am Bach</col>
+    <col>13:23</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Lustiges Zusammensein der Landleute</col>
+    <col>5:11</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Gewitter, Sturm</col>
+    <col>3:50</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Hirtengeseng, frohe, dankbare Gefühle nach dem Sturm</col>
+    <col>10:34</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="50"
+  unique=""
+  title="Carmina Burana"
+  cover="Kansikuvat/carmina-burana-titan.jpg"
+  backpic=""
+  artist="Chor und Orchester des Salzburger Mozarteums / Kurt Prestel"
+  running="1:04:18"
+  release=""
+  label="Seleted Sound Carrier AG"
+  rating="0"
+  ratingpress="0"
+  added="23/09/2017"
+  location=""
+  origin=""
+  composer="Carl Orff"
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Klassinen</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Fortuna Imperatrix Mundi</col>
+    <col></col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Primo Vere</col>
+    <col></col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Uf dem Anger</col>
+    <col></col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>In Taberna</col>
+    <col></col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Cour D'Amours</col>
+    <col></col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Blanziflor Et Helena</col>
+    <col></col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Fortuna Imperatrix Mundi</col>
+    <col></col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="51"
+  unique=""
+  title="Symphonie Nr. 1 in D-Dur &quot;Der Titan&quot;"
+  cover="Kansikuvat/carmina-burana-titan.jpg"
+  backpic=""
+  artist="Philharmonic Festival Orchestra / Vladimir Petroschoff"
+  running="54:46"
+  release=""
+  label="Seleted Sound Carrier AG"
+  rating="0"
+  ratingpress="0"
+  added="23/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Klassinen</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Satz/1. Movement langsam schleppend</col>
+    <col>16:31</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Satz/2. Movement kräftig bewegt</col>
+    <col>7:11</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Satz/3. Movement feierlich und gemessen</col>
+    <col>10:21</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Satz/4. Movement stürmich bewegt</col>
+    <col>19:30</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="52"
+  unique=""
+  title="Cloaca Maxima I #1: Physis"
+  cover="Kansikuvat/cloaca-maxima.jpg"
+  backpic=""
+  artist="CMX"
+  running="58:47"
+  release="1997"
+  label="Herodes / EMI"
+  rating="0"
+  ratingpress="0"
+  added="23/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Rock</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Ainomieli '97</col>
+    <col>3:30</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Nimetön</col>
+    <col>3:37</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Kultanaamio</col>
+    <col>4:55</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Nahkaparturi</col>
+    <col>1:48</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Nainen tanssii tangoa</col>
+    <col>4:34</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Vallat ja väet</col>
+    <col>4:21</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Kirosäkeet</col>
+    <col>4:10</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Suljettu astia</col>
+    <col>3:34</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Elokuun kruunu</col>
+    <col>4:32</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Rautakantele</col>
+    <col>4:32</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Hiki</col>
+    <col>2:03</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>Manalainen</col>
+    <col>3:25</col>
+   </line>
+   <line>
+    <col>13</col>
+    <col>Kätketty kukka</col>
+    <col>4:38</col>
+   </line>
+   <line>
+    <col>14</col>
+    <col>Linnunhammas</col>
+    <col>3:21</col>
+   </line>
+   <line>
+    <col>15</col>
+    <col>Marian ilmestys</col>
+    <col>5:47</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="53"
+  unique=""
+  title="Cloaca Maxima I #2: Aetheris"
+  cover="Kansikuvat/cloaca-maxima.jpg"
+  backpic=""
+  artist="CMX"
+  running="51:03"
+  release="1997"
+  label="Herodes / EMI"
+  rating="0"
+  ratingpress="0"
+  added="23/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Rock</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Hiljaisuuteen</col>
+    <col>2:04</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Ruoste</col>
+    <col>4:01</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Helvetin hyvä paimen</col>
+    <col>2:47</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Talviunia</col>
+    <col>3:30</col>
+   </line>
+   <line>
+    <col> 5</col>
+    <col>Turkoosi</col>
+    <col>4:18</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Veden ääri</col>
+    <col>3:07</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Aura</col>
+    <col>3:31</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Pelasta Maailma</col>
+    <col>4:16</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Tähteinvälinen '97</col>
+    <col>5:06</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Tulikiveä</col>
+    <col>03:50</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Yöllisiä</col>
+    <col>3:20</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>Mikään ei vie sitä pois</col>
+    <col>3:19</col>
+   </line>
+   <line>
+    <col>13</col>
+    <col>Yö ei ole pimeä päivä</col>
+    <col>3:08</col>
+   </line>
+   <line>
+    <col>14</col>
+    <col>Talvipäivänseisaus</col>
+    <col>4:46</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="54"
+  unique=""
+  title="Cloaca Maxima I #3: Astralis"
+  cover="Kansikuvat/cloaca-maxima.jpg"
+  backpic=""
+  artist="CMX"
+  running="55:02"
+  release="1997"
+  label="Herodes / EMI"
+  rating="0"
+  ratingpress="0"
+  added="23/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Rock</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Musiikin ystävälliset kasvot '97</col>
+    <col>4:08</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Katariinanpyörä</col>
+    <col>2:33</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Siivekäs</col>
+    <col>4:41</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Hyvä tahto</col>
+    <col>4:11</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Joet</col>
+    <col>3:47</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Aamutähti '97</col>
+    <col>4:29</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Keskellä</col>
+    <col>2:18</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Marmori</col>
+    <col>4:17</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Seittemän Jeesusta</col>
+    <col>3:20</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Saatana</col>
+    <col>4:17</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Pimeä maa (live '95)</col>
+    <col>3:58</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>Näkyjen pitelijä</col>
+    <col>5:21</col>
+   </line>
+   <line>
+    <col>13</col>
+    <col>Shakti</col>
+    <col>4:35</col>
+   </line>
+   <line>
+    <col>14</col>
+    <col>Reuna</col>
+    <col>3:07</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="55"
+  unique=""
+  title="Cloaca Maxima II #1: Lyijy"
+  cover="Kansikuvat/Cloaca-maxima-II.jpg"
+  backpic=""
+  artist="CMX"
+  running="58:37"
+  release="2004"
+  label="Herodes / EMI"
+  rating="0"
+  ratingpress="0"
+  added="23/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Rock</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Olet tässä</col>
+    <col>4:36</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Surunmurhaaja</col>
+    <col>3:48</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Jatkuu niin kuin sade</col>
+    <col>4:35</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Pohjoista leyvettä</col>
+    <col>3:18</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Taivaan lapset</col>
+    <col>3:50</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Lepattajat</col>
+    <col>4:12</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Ei yksikään</col>
+    <col>3:27</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Luuhamara</col>
+    <col>4:20</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Puuvertaus</col>
+    <col>4:36</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Pirunnyrkki</col>
+    <col>3:19</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Minne paha haudattiin</col>
+    <col>5:32</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>Palvelemaan konetta</col>
+    <col>3:55</col>
+   </line>
+   <line>
+    <col>13</col>
+    <col>Meidän syntimme</col>
+    <col>4:33</col>
+   </line>
+   <line>
+    <col>14</col>
+    <col>Pyörivät sähkökoneet '04</col>
+    <col>4:06</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="56"
+  unique=""
+  title="Cloaca Maxima II #2: Helium"
+  cover="Kansikuvat/Cloaca-maxima-II.jpg"
+  backpic=""
+  artist="CMX"
+  running="1:16:15"
+  release="2004"
+  label="Herodes / EMI"
+  rating="0"
+  ratingpress="0"
+  added="23/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Rock</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Kauneus pettää</col>
+    <col>3:54</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Kuoleman risteyksestä kolme virstaa pohjoiseen</col>
+    <col>5:44</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Vainajala '04</col>
+    <col>6:05</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Minun sydämeni on särkynyt</col>
+    <col>3:59</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Tuonen lintu</col>
+    <col>5:33</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Sillanrakentaja</col>
+    <col>4:17</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Sielunvihollinen</col>
+    <col>4:03</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Baikonur</col>
+    <col>7:29</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Tähdet sylissään</col>
+    <col>7:49</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Tuulilukko</col>
+    <col>4:28</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Myrskyn ratsut</col>
+    <col>6:29</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>Melankolia</col>
+    <col>4:11</col>
+   </line>
+   <line>
+    <col>13</col>
+    <col>Revontulten repijä</col>
+    <col>6:13</col>
+   </line>
+   <line>
+    <col>14</col>
+    <col>Vanha talvitie</col>
+    <col>6:01</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="57"
+  unique=""
+  title="Cloaca Maxima II #3 Uraani"
+  cover="Kansikuvat/Cloaca-maxima-II.jpg"
+  backpic=""
+  artist="CMX"
+  running="1:00:27"
+  release="2004"
+  label="Herodes / EMI"
+  rating="0"
+  ratingpress="0"
+  added="23/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Rock</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Päämäärä</col>
+    <col>4:13</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Ei tästä maailmasta</col>
+    <col>4:29</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Väkivallan moottorit</col>
+    <col>3:30</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Pii</col>
+    <col>04:26</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Kvartetto rock-yhyeelle ja solistille , op.1</col>
+    <col>4:22</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Ehdotus ensimmäisen mainoskatkon paikaksi</col>
+    <col>2:48</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Ruisperkele</col>
+    <col>2:27</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Kolme kimaltavaa neitoa</col>
+    <col>4:24</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Kiusaajien kiusaaja</col>
+    <col>2:45</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Epäluoma</col>
+    <col>3:04</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Negatiivinen asenne</col>
+    <col>2:34</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>Ehdota jotain parempaa</col>
+    <col>3:31</col>
+   </line>
+   <line>
+    <col>13</col>
+    <col>Punainen numero 6</col>
+    <col>6:00</col>
+   </line>
+   <line>
+    <col>14</col>
+    <col>Helevetinkone</col>
+    <col>3:30</col>
+   </line>
+   <line>
+    <col>15</col>
+    <col>10^118</col>
+    <col>4:44</col>
+   </line>
+   <line>
+    <col>16</col>
+    <col>Huntu</col>
+    <col>3:40</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="58"
+  unique=""
+  title="Erilainen"
+  cover="Kansikuvat/majka-erilainen.jpg"
+  backpic=""
+  artist="Majka"
+  running="40:44"
+  release="2017"
+  label="Teatteri Pikkuplaneetta Oy"
+  rating="0"
+  ratingpress="0"
+  added="23/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Rock</col>
+   </line>
+   <line>
+    <col>Pop</col>
+   </line>
+   <line>
+    <col>Reggae</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Kiitos rakkaani</col>
+    <col>4:16</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Isäni taivas</col>
+    <col>4:14</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Eemeli</col>
+    <col>4:30</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Alisa</col>
+    <col>3:14</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Feeniks</col>
+    <col>3:32</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Aamu jo sarastaa</col>
+    <col>4:04</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Toivo</col>
+    <col>3:39</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Antaudun</col>
+    <col>2:35</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Kuningas</col>
+    <col>3:44</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Erilainen</col>
+    <col>6:56</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="59"
+  unique=""
+  title="Rautaiset linnut"
+  cover="Kansikuvat/rautaiset-linnut.jpg"
+  backpic=""
+  artist="51 Koodia"
+  running="52:58"
+  release="2005"
+  label="EMI Records"
+  genre=""
+  rating="0"
+  ratingpress="0"
+  added="23/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Hayano</col>
+    <col>1:04</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Rautaiset linnut</col>
+    <col>4:41</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Tässä ja nyt</col>
+    <col>3:44</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Kylmäjärvi</col>
+    <col>5:01</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Kahleet</col>
+    <col>3:36</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Puu</col>
+    <col>5:37</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Risti kaulassa helvettiin</col>
+    <col>3:58</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Viimeinen satama (ottakaa se pois)</col>
+    <col>4:48</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Alla mahtavan taivaan</col>
+    <col>5:31</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Aavelaulajatar</col>
+    <col>4:34</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Hyväst, näkemiin</col>
+    <col>5:23</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>Peilityyni</col>
+    <col>5:01</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="60"
+  unique=""
+  title="Helppo elämä #1"
+  cover="Kansikuvat/helppo-elama.jpg"
+  backpic=""
+  artist="Juliet Jonesin sydän"
+  running="55:48"
+  release="2006"
+  label="Poko Records"
+  rating="0"
+  ratingpress="0"
+  added="23/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Pop rock</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Helppo elämä</col>
+    <col>3:02</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Albania</col>
+    <col>3:58</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Meidän talossa</col>
+    <col>3:45</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Perjantai-ilta</col>
+    <col>2:36</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Kuka tekis Hectorin eteiseen</col>
+    <col>2:30</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Haluan olla poikaystäväsi</col>
+    <col>3:23</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Huonoa musiikkia</col>
+    <col>2:05</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Täällä minä en mitään tee</col>
+    <col>2:57</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Rakkauslaulu</col>
+    <col>2:42</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Balladi kolmesta rosvosta</col>
+    <col>3:00</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Käymme yhdessä ain</col>
+    <col>3:25</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>Vallankumous</col>
+    <col>3:26</col>
+   </line>
+   <line>
+    <col>13</col>
+    <col>Paha nainen</col>
+    <col>3:42</col>
+   </line>
+   <line>
+    <col>14</col>
+    <col>Aurinkorannalle</col>
+    <col>4:14</col>
+   </line>
+   <line>
+    <col>15</col>
+    <col>Jänis</col>
+    <col>2:52</col>
+   </line>
+   <line>
+    <col>16</col>
+    <col>Juliet Jones</col>
+    <col>3:34</col>
+   </line>
+   <line>
+    <col>17</col>
+    <col>Kissat</col>
+    <col>2:41</col>
+   </line>
+   <line>
+    <col>18</col>
+    <col>Jupiter</col>
+    <col>1:56</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="61"
+  unique=""
+  title="Helppo elämä #2"
+  cover="Kansikuvat/helppo-elama.jpg"
+  backpic=""
+  artist="Juliet Jonesin Sydän"
+  running="1:00:41"
+  release="2006"
+  label="Poko Records"
+  rating="0"
+  ratingpress="0"
+  added="23/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Rock</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Miksi naiset aina rakastuvat renttuihin</col>
+    <col>4:25</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Jussi and the Boys</col>
+    <col>3:05</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Hampurissa</col>
+    <col>2:44</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Paratiisiin</col>
+    <col>3:49</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Kantri</col>
+    <col>3:01</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Uskonto, laskento, lukeminen, laulu</col>
+    <col>2:45</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Duetto (kadonnut nainen)</col>
+    <col>4:37</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Suudelma vielä</col>
+    <col>3:21</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Neljä miestä</col>
+    <col>3:59</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Kun isänmaa kostaa</col>
+    <col>3:25</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Työläiset</col>
+    <col>2:13</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>Valaiset yön</col>
+    <col>3:47</col>
+   </line>
+   <line>
+    <col>13</col>
+    <col>Tulipunaruusut</col>
+    <col>3:40</col>
+   </line>
+   <line>
+    <col>14</col>
+    <col>Iskelmä</col>
+    <col>3:41</col>
+   </line>
+   <line>
+    <col>15</col>
+    <col>Aivan sama</col>
+    <col>2:20</col>
+   </line>
+   <line>
+    <col>16</col>
+    <col>Cowboy</col>
+    <col>2:48</col>
+   </line>
+   <line>
+    <col>17</col>
+    <col>Veijari ja pyhimys</col>
+    <col>3:44</col>
+   </line>
+   <line>
+    <col>18</col>
+    <col>Räkänokka</col>
+    <col>3:17</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="62"
+  unique=""
+  title="Revontulet - Singlet 1983 - 2001 #1"
+  cover="Kansikuvat/revontulet.jpg"
+  backpic=""
+  artist="Juliet Jonesin Sydän"
+  running="0"
+  release="27.3.2015"
+  label="EMI Records"
+  tracks=""
+  rating="0"
+  ratingpress="0"
+  added="23/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Rock</col>
+   </line>
+   <line>
+    <col>Pop</col>
+   </line>
+  </genre>
+ </item>
+ <item
+  gcsautoid="63"
+  unique=""
+  title="Juliet Jonesin Sydän - Singlet 1983 - 2001 #2"
+  cover="Kansikuvat/revontulet.jpg"
+  backpic=""
+  artist="Juliet Jonesin Sydän"
+  running="1:05:18"
+  release="2015"
+  label="Poko Records"
+  rating="0"
+  ratingpress="0"
+  added="23/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Rock</col>
+   </line>
+   <line>
+    <col>Pop</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Hyvästi</col>
+    <col>3:59</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Juleet Jonesin Sydän</col>
+    <col>3:25</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Platon Platon</col>
+    <col>3:09</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Haluan olla poikaystäväsi</col>
+    <col>3:25</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Niin se käy</col>
+    <col>3:40</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Kantri</col>
+    <col>3:04</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Sorsat</col>
+    <col>2:14</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Suuren temppelin salaisuus</col>
+    <col>1:39</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Silti joulu jaksaa naurattaa (jatsi)</col>
+    <col>3:07</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Vau! Olen hulluna taas</col>
+    <col>2:33</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Tonava</col>
+    <col>1:28</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>Viimeinen hetki</col>
+    <col>3:25</col>
+   </line>
+   <line>
+    <col>13</col>
+    <col>Jupiter</col>
+    <col>1:58</col>
+   </line>
+   <line>
+    <col>14</col>
+    <col>Loppusointu twist</col>
+    <col>2:22</col>
+   </line>
+   <line>
+    <col>15</col>
+    <col>Haluaisin vaimokseni tarjoilijattaren</col>
+    <col>3:31</col>
+   </line>
+   <line>
+    <col>16</col>
+    <col>Työläiset (remix)</col>
+    <col>3:34</col>
+   </line>
+   <line>
+    <col>17</col>
+    <col>Balladi kolmesta rosvosta</col>
+    <col>3:01</col>
+   </line>
+   <line>
+    <col>18</col>
+    <col>Sunnuntai</col>
+    <col>3:48</col>
+   </line>
+   <line>
+    <col>19</col>
+    <col>Mannerheimintie</col>
+    <col>1:49</col>
+   </line>
+   <line>
+    <col>20</col>
+    <col>Jos se ei oo rakkautta</col>
+    <col>3:26</col>
+   </line>
+   <line>
+    <col>21</col>
+    <col>Veljeni Leijonamieli</col>
+    <col>2:35</col>
+   </line>
+   <line>
+    <col>22</col>
+    <col>Laihat tytöt</col>
+    <col>4:06</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="64"
+  unique=""
+  title="Rajaportti"
+  cover="Kansikuvat/Rajaportti.jpg"
+  backpic=""
+  artist="Timo Rautiainen &amp; Trio Niskalaukaus"
+  running="36:06"
+  release="18.3.2002"
+  label="Ranka Recordings"
+  rating="0"
+  ratingpress="0"
+  added="23/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Rock</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Minulla on sanottavaa!</col>
+    <col>01:53</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Surupuku</col>
+    <col>4:38</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Elegia</col>
+    <col>5:05</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Kova maa</col>
+    <col>4:00</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Elinkautinen</col>
+    <col>2:25</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Älä enää lyö</col>
+    <col>3:57</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Hämmennys ja viha</col>
+    <col>2:44</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Lumessakahlaajat</col>
+    <col>4:40</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Jäähyväiset</col>
+    <col>6:44</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="65"
+  unique=""
+  title="Spice"
+  cover="Kansikuvat/Spicegirls-spice.jpg"
+  backpic=""
+  artist="Spice Girls"
+  running="35:04"
+  release="4.11.1996"
+  label="Virgin Records Ltd."
+  rating="0"
+  ratingpress="0"
+  added="23/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Pop</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Wannabe</col>
+    <col>2:52</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Say You'll Be There</col>
+    <col>3:56</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>2 Become One</col>
+    <col>4:00</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Love Thing</col>
+    <col>3:37</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Last Time Lover</col>
+    <col>4:11</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Mama</col>
+    <col>5:03</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Who Do You Think You Are</col>
+    <col>3:59</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Something Kinda Funny</col>
+    <col>4:02</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Naked</col>
+    <col>4:25</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>If U Can't Dance</col>
+    <col>3:58</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="66"
+  unique=""
+  title="Bipolar"
+  cover=""
+  backpic=""
+  artist="Misleds"
+  running="6:45"
+  release="2008"
+  label="Misleds"
+  rating="0"
+  ratingpress="0"
+  added="23/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Rock</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Bipolar</col>
+    <col>3:47</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Love Child</col>
+    <col>2:58</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="67"
+  unique=""
+  title="Kalan silmä"
+  cover="Kansikuvat/Noitalinna_huraa_Kalan_silma.jpg"
+  backpic=""
+  artist="Noitalinna huraa!"
+  running="39:08"
+  release="2014"
+  label="Megamania"
+  rating="0"
+  ratingpress="0"
+  added="23/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Indie Rock</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Pikkuveli</col>
+    <col>3:21</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Valaan laulu</col>
+    <col>3:56</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Musta köksä</col>
+    <col>1:50</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Näkki</col>
+    <col>2:29</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Onkija</col>
+    <col>2:47</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Kaikki valot</col>
+    <col>3:34</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Kurja kissa</col>
+    <col>3.05</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Rautasaapas</col>
+    <col>3:15</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Vetinen Poppanen</col>
+    <col>3:26</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Kissapoika</col>
+    <col>2:36</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Toivomustynnyri</col>
+    <col>2:19</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>Noitalinna-go-go</col>
+    <col>3:04</col>
+   </line>
+   <line>
+    <col>13</col>
+    <col>Sepponen</col>
+    <col>3:26</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="69"
+  unique=""
+  title="Recollection"
+  cover="Kansikuvat/recollection.jpg"
+  backpic=""
+  artist="Suburban Tribe"
+  running="1:08:55"
+  release="2007"
+  label="EMI Records"
+  rating="0"
+  ratingpress="0"
+  added="23/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Hard Rock</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Shock The Monkey</col>
+    <col>3:38</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>While The World Awaits</col>
+    <col>4:02</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Watching You</col>
+    <col>4:46</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Frozen Ashes</col>
+    <col>4:37</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Nevermore</col>
+    <col>4:12</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Carved In Silence</col>
+    <col>4:42</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Untameable</col>
+    <col>3:31</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Oil And Water</col>
+    <col>4:56</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Nothingness</col>
+    <col>3:48</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Torn Apart</col>
+    <col>3:44</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Complications</col>
+    <col>3:01</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>Colour of Silence</col>
+    <col>5:23</col>
+   </line>
+   <line>
+    <col>13</col>
+    <col>Sunflower (2007)</col>
+    <col>3:56</col>
+   </line>
+   <line>
+    <col>14</col>
+    <col>Into The Blue</col>
+    <col>5:23</col>
+   </line>
+   <line>
+    <col>15</col>
+    <col>Silent Rain</col>
+    <col>5:08</col>
+   </line>
+   <line>
+    <col>16</col>
+    <col>The Weight</col>
+    <col>4:08</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="70"
+  unique=""
+  title="We Love Life"
+  cover="Kansikuvat/we-love-life.jpeg"
+  backpic=""
+  artist="Pulp"
+  running="53:55"
+  release="22.10.2001"
+  label="Polygram"
+  rating="0"
+  ratingpress="0"
+  added="23/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Brit Rock</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Weeds</col>
+    <col>3:42</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Weeds II (the origin of the species)</col>
+    <col>3:58</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>The Night that Minnie Timperley Died</col>
+    <col>4:38</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>The Trees</col>
+    <col>4:49</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Wickerman</col>
+    <col>8:17</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>I Love Life</col>
+    <col>5:31</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>The Birds in Your Garden</col>
+    <col>4:11</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Bob Lind (the only way is down)</col>
+    <col>4:16</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Bad Cover Version</col>
+    <col>4:16</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Roadkill</col>
+    <col>4:16</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Sunrise</col>
+    <col>6:02</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="71"
+  unique=""
+  title="Ei"
+  cover="Kansikuvat/ei.jpg"
+  backpic=""
+  artist="Maija Vilkkumaa"
+  running="50:55"
+  release="7.3.2003"
+  label="Warner Music Finland"
+  rating="0"
+  ratingpress="0"
+  added="23/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Pop rock</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Kristiina</col>
+    <col>3:23</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Mun elämä</col>
+    <col>4:30</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Väärin</col>
+    <col>3:10</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Ei</col>
+    <col>3:17</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Häviän</col>
+    <col>4:11</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Eteiseen</col>
+    <col>3:52</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Ei susta huomaa</col>
+    <col>5:09</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Lattiaa pestään</col>
+    <col>3:31</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Mä jään</col>
+    <col>4:13</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Kusipää</col>
+    <col>5:17</col>
+   </line>
+   <line>
+    <col>11</col>
+    <col>Jonain päivänä</col>
+    <col>3:59</col>
+   </line>
+   <line>
+    <col>12</col>
+    <col>Ei saa surettaa</col>
+    <col>6:06</col>
+   </line>
+  </tracks>
+ </item>
+ <item
+  gcsautoid="72"
+  unique=""
+  title="Maailmasta"
+  cover="Kansikuvat/maailmasta.jpg"
+  backpic=""
+  artist="Roni Martin &amp; Jukka Orma Tanssiinkutsu"
+  running="44:47"
+  release="2004"
+  label="Seal on Velvet"
+  rating="0"
+  ratingpress="0"
+  added="23/09/2017"
+  location=""
+  origin=""
+  composer=""
+  producer=""
+  format=""
+  playlist=""
+  web=""
+  borrower="none"
+  lendDate=""
+  borrowings=""
+  favourite="0"
+  tags=""
+ >
+  <comments></comments>
+  <genre>
+   <line>
+    <col>Kitararock</col>
+   </line>
+   <line>
+    <col>Alternative</col>
+   </line>
+  </genre>
+  <tracks>
+   <line>
+    <col>1</col>
+    <col>Manannan Mclir</col>
+    <col>3:42</col>
+   </line>
+   <line>
+    <col>2</col>
+    <col>Perintöhattu</col>
+    <col>4:19</col>
+   </line>
+   <line>
+    <col>3</col>
+    <col>Suurkaupungit</col>
+    <col>3:12</col>
+   </line>
+   <line>
+    <col>4</col>
+    <col>Syntymäpäivä</col>
+    <col>4:31</col>
+   </line>
+   <line>
+    <col>5</col>
+    <col>Hullun miehen hevonen</col>
+    <col>4:28</col>
+   </line>
+   <line>
+    <col>6</col>
+    <col>Päivä</col>
+    <col>4:45</col>
+   </line>
+   <line>
+    <col>7</col>
+    <col>Nukke</col>
+    <col>4:03</col>
+   </line>
+   <line>
+    <col>8</col>
+    <col>Portugalin kuu</col>
+    <col>6:10</col>
+   </line>
+   <line>
+    <col>9</col>
+    <col>Muistoruno</col>
+    <col>4:27</col>
+   </line>
+   <line>
+    <col>10</col>
+    <col>Asemat 1&amp;2</col>
+    <col>5:10</col>
+   </line>
+  </tracks>
+ </item>
+</collection>
